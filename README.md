@@ -4,7 +4,7 @@ This is a simple UNIX command interpreter implemented in C.
 
 ## Installation
 
-Clone this repository:
+Clone this repo:
 
 ```sh
 git clone https://github.com/2hasan2/simple_shell.git
